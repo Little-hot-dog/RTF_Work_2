@@ -93,7 +93,6 @@ for i in range(10):
     sh.sheet1.update(('B' + str(i + 1)), str(loss))
     sh.sheet1.update(('C' + str(i + 1)), str(diff_loss))
 ```
-прикрепить скриншот
 ![](https://github.com/Little-hot-dog/RTF_Work_2/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD_4.png)
 
 ## Задание 3
